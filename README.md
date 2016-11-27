@@ -43,7 +43,7 @@ IOS in the local picture library package, the camera calls the package library, 
 
 
 # Cocoapods
-Add pod ```'QPPhotoAlbum', '~> 1.0.1'``` to your Podfile Run ```pod install``` or ```pod update```
+Add pod ```'QPPhotoAlbum', '~> 1.0.0'``` to your Podfile Run ```pod install``` or ```pod update```
 
 # Contributing
 - If you need help, open an issue.
